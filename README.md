@@ -95,3 +95,8 @@ Instalacion de Angular cli
             ],
 
 
+# Proyecto de Ejemplo
+
+- Repositorio de Ejemplo completo utilizando angular como frontend, Django para backend [SongApp][key]
+
+[key]: https://github.com/carlosngv/SongApp
